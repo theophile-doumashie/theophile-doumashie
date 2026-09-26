@@ -188,7 +188,7 @@ Machine Learning léger.
 
 Théophile Doumashie — [theophiledumashie@gmail.com](mailto:theophiledumashie@gmail.com)
 
-Portfolio : [theophile.stagebroad.com][portfolio-url] · LinkedIn : [/in/theophiledoumashie][linkedin-url] · Freelancer : [@devopscamesec](https://www.freelancer.com/u/devopscamesec)
+Portfolio : [theophile.stagebroad.com][portfolio-url] · LinkedIn : [/in/theophile-doumashie][linkedin-url] · Freelancer : [@devopscamesec](https://www.freelancer.com/u/devopscamesec)
 
 *Ouvert aux missions freelance et aux collaborations en VoIP, infrastructure et cybersécurité.*
 
