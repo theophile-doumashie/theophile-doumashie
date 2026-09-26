@@ -47,7 +47,7 @@
 ## <img src="icons/person-24.svg" width="22" align="top"> À propos
 
 Je conçois, exploite et sécurise des plateformes de téléphonie et des centres de
-contacts. Depuis 2023, je pilote l'infrastructure d'**ADKONTACT TECHNOLOGIES**
+contacts. Depuis 2023, je pilote l'infrastructure d'**ADKONTACT**
 sur cinq pays d'Afrique de l'Ouest — Togo, Bénin, Mali, Burkina Faso, Côte
 d'Ivoire — pour des donneurs d'ordre européens.
 
