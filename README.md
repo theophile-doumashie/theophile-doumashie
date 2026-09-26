@@ -21,7 +21,7 @@
     <a href="https://theophile.stagebroad.com"><strong>Voir le portfolio »</strong></a>
     <br />
     <br />
-    <a href="https://www.linkedin.com/in/theophiledoumashie">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/theophile-doumashie">LinkedIn</a>
     &middot;
     <a href="https://www.freelancer.com/u/devopscamesec">Freelancer</a>
     &middot;
