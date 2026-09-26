@@ -201,5 +201,5 @@ Portfolio : [theophile.stagebroad.com][portfolio-url] · LinkedIn : [/in/theophi
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white
 [location-shield]: https://img.shields.io/badge/Lomé-Togo-EE1B24?style=for-the-badge&logo=googlemaps&logoColor=white
 [github-url]: https://github.com/theophile-doumashie
-[linkedin-url]: https://www.linkedin.com/in/theophiledoumashie
+[linkedin-url]: https://www.linkedin.com/in/theophile-doumashie
 [portfolio-url]: https://theophile.stagebroad.com
